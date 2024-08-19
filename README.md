@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/v2/C511BAQHxjUNbm0bvNg/company-background_1536_768/company-background_1536_768/0/1583882155231?e=1724644800&v=beta&t=Ebs3CMljcXOyK9VEdPbdoD6wevwT7cpDCd48HhXNtQk)](https://osindoxavier.io)
+[![MasterHead](https://giphy.com/embed/llarwdtFqG63IlqUR1)](https://osindoxavier.io)
 
 Hi there 👋
 Welcome to My GitHub Profile!
