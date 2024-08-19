@@ -20,7 +20,7 @@ I'm Francis Xavier Osindo, a Native Android developer. With 5+ years of coding e
 🔄 Retrofit\
 🧰 Android Studio\
 🖼️ Coil image loading library\
-🧨 Ktor: Backend, Client\
+🧨 Ktor: Backend, Client
 ## Other Skills:
 🐍 Python: Pygame, Kivy, Tkinter, PIL, Django\
 💻 Kotlin Ktor Backend\
