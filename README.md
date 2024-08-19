@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://osindoxavier.io)
 
-Hi there 👋
+<h2>Hi there 👋<h2/>
 Welcome to My GitHub Profile!
 
 ## About Me
