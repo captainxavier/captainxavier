@@ -6,25 +6,25 @@ I'm Francis Xavier Osindo, a Native Android developer. With 5+ years of coding e
 
 ## Android Development SkillSet:
 ✨ Jetpack Compose\
-📦 Room Database
-🤖 Android SDK
-🚀Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
-🏡 Android Lifecycle Components
-💻 Kotlin: Standard Library, Flows, Coroutines
-📡 MongoDB Realm Database
-🔥 Firebase SDK & Cloud Firestore
-🎬 Android Media 3
-🧬 MVVM: Modern Android Architecture
-🏗 Multi-Module Architecture
-🌐 RESTful APIs
-🔄 Retrofit
-🧰 Android Studio
-🖼️ Coil image loading library
-🧨 Ktor: Backend, Client
-Other Skills:
-🐍 Python: Pygame, Kivy, Tkinter, PIL, Django
-💻 Kotlin Ktor Backend
-🍵 Java
-🕸️ Kotlin/Js + Compose/html: Kobweb
-🌐 Html, CSS, JavaScript
+📦 Room Database\
+🤖 Android SDK\
+🚀Android Jetpack: Navigation, ViewModels, WorkManager, DataStore\
+🏡 Android Lifecycle Components\
+💻 Kotlin: Standard Library, Flows, Coroutines\
+📡 MongoDB Realm Database\
+🔥 Firebase SDK & Cloud Firestore\
+🎬 Android Media 3\
+🧬 MVVM: Modern Android Architecture\
+🏗 Multi-Module Architecture\
+🌐 RESTful APIs\
+🔄 Retrofit\
+🧰 Android Studio\
+🖼️ Coil image loading library\
+🧨 Ktor: Backend, Client\
+## Other Skills:
+🐍 Python: Pygame, Kivy, Tkinter, PIL, Django\
+💻 Kotlin Ktor Backend\
+🍵 Java\
+🕸️ Kotlin/Js + Compose/html: Kobweb\
+🌐 Html, CSS, JavaScript\
 💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
