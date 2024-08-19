@@ -1,7 +1,7 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://osindoxavier.io)
 
-<h2>Hi there 👋<h2/>
-Welcome to My GitHub Profile!
+<h4>Hi there 👋<br>Welcome to My GitHub Profile!<h4/>
+
 
 ## About Me
 I'm Francis Xavier Osindo, a Native Android developer. With 5+ years of coding expertise, including 4 years in Native Android app development, I specialize in crafting top-notch, high-quality mobile applications.
