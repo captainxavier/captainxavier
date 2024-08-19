@@ -1,4 +1,4 @@
-[![MasterHead](https://giphy.com/embed/llarwdtFqG63IlqUR1)](https://osindoxavier.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://osindoxavier.io)
 
 Hi there 👋
 Welcome to My GitHub Profile!
