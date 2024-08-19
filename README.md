@@ -31,5 +31,5 @@ I'm Francis Xavier Osindo, a Native Android developer. With 5+ years of coding e
 🌐 Html, CSS, JavaScript\
 💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
 
-<h3 align="center">Connect with me:</h3>
+## Connect with me:
 
