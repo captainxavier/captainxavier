@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://osindoxavier.io)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:3840/format:webp/1*zy5IG2inEQSqeWyPJ7vo-g.gif)](https://github.com/osindoxavier)
 
 <h4>Hi there 👋<br>Welcome to My GitHub Profile!<h4/>
 
@@ -31,5 +31,5 @@ I'm Francis Xavier Osindo, a Native Android developer. With 5+ years of coding e
 🌐 Html, CSS, JavaScript\
 💡 Let's Collaborate to Turn Your App Ideas into Captivating Reality!
 
-## Connect with me:
+
 
