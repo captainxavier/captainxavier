@@ -5,7 +5,7 @@ Welcome to My GitHub Profile!
 I'm Francis Xavier Osindo, a Native Android developer. With 5+ years of coding expertise, including 4 years in Native Android app development, I specialize in crafting top-notch, high-quality mobile applications.
 
 ## Android Development SkillSet:
-✨ Jetpack Compose
+✨ Jetpack Compose\
 📦 Room Database
 🤖 Android SDK
 🚀Android Jetpack: Navigation, ViewModels, WorkManager, DataStore
